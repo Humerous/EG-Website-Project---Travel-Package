@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop-View]()
+![Desktop-View](https://github.com/Humerous/EG-Website-Project---Travel-Package/blob/main/Home%20page.jpg)
 
 ### Links
 
